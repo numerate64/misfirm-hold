@@ -1,6 +1,6 @@
 # MIS Solutions — Holding Page
 
-A lightweight, responsive under-construction page for MIS Solutions. The design uses the existing MIS Solutions navy, orange, and warm-neutral brand palette.
+A minimal, responsive under-construction page for MIS Solutions. It intentionally contains no service, capability, contact, or company-profile information.
 
 ## Local preview
 
